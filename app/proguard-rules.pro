@@ -1,0 +1,3 @@
+-keep class com.nitrodropnative.transfer.TransferMetadata { *; }
+-keep class androidx.room.** { *; }
+-dontwarn org.json.**
