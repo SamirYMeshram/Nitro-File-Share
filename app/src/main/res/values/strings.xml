@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NitroDrop Native</string>
+    <string name="tagline">Native device-to-device file transfer at maximum sustained speed.</string>
+</resources>
